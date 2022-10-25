@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: black;
+    background-image: url("-diwali-gif-hd-for-wishing-happy-diwali-gif.gif");
+    background-position: center;
+    background-size: cover;
+}
+#happy{
+    text-align: center;
+    width: 600px;
+    height: 400px;
+
+}
+h1{
+    color:lightcyan;
+    font-size:25px;
+}
+h2{
+    color:lightcyan;
+    font-size: 25px;
+}
+#img1{
+    width: 200px;
+    height: 100px;
+}
